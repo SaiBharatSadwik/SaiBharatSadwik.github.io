@@ -1,0 +1,35 @@
+tr.HK{
+    background-color: blue;
+    padding: 10px;
+
+    }
+th.seva{
+    background-color:yellow;
+}
+td.middle{
+    text-align: center;
+}
+th.middle{
+    text-align: center;
+}
+#radhamadanmohan{
+    background-color: white;
+
+}
+div.container{
+        display: flex;
+        align-items: center;
+        /*border: 1px black solid;
+        width:fit-content;
+        display: block;*/
+    }
+    .box{
+        border:0cm;
+        width: fit-content;
+        height: 100px;
+        /*margin-right: 10px;*/ 
+    }
+    button{
+    border-radius: 60px;
+    color: darkblue;
+    }
